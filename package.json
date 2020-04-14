@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "test": "jest"
+    "test": "jest",
+    "postinstall": "bin/postinst.js"
   },
   "devDependencies": {
     "@aws-cdk/assert": "1.32.2",
