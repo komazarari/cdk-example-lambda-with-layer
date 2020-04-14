@@ -1,5 +1,5 @@
 {
-  "name": "cdk-example-lambda-with-layer",
+  "name": "@komazarari/cdk-example-lambda-with-layer",
   "version": "0.1.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
